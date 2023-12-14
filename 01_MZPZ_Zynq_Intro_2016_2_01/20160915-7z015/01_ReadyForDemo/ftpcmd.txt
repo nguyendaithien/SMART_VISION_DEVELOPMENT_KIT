@@ -1,0 +1,12 @@
+open 192.168.1.100
+root
+root
+cd mmc
+prompt
+bin
+put BS.dat
+put DU.dat
+put Firm.bin
+put rootfs_emms.tar.gz
+put XML.dat
+bye
